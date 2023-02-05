@@ -55,5 +55,5 @@ optimize the fitness function to get the optimal position of whale.
 </p>
 
 <p align="center">
-    <strong> Fig. 2 </strong> Flowchart of the proposed BWO. Source:https://www.researchgate.net/publication/361204761_Beluga_whale_optimization_A_novel_nature-inspired_metaheuristic_algorithm
+    <strong> Fig. 2 </strong> Flowchart of the proposed BWO. Source: https://www.researchgate.net/publication/361204761_Beluga_whale_optimization_A_novel_nature-inspired_metaheuristic_algorithm
 </p>
