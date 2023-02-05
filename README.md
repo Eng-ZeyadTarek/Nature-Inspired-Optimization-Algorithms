@@ -47,6 +47,7 @@ optimize the fitness function to get the optimal position of whale.
 </p>
 
 <p align="center">
-    Fig. 1 Behaviors of beluga whales, (a) swim, corresponding to exploration phase; (b) foraging, corresponding to exploitation phase, (c) whale fall, for whale fall phase. Source: https://constative.com/animals/whale-watching, https://www.sealuxe.ca/blog/narwhal
+    <strong> Fig. 1 </strong> Behaviors of beluga whales, (a) swim, corresponding to exploration phase; (b) foraging, corresponding to exploitation phase, (c) whale fall, for whale fall phase. Source: https://constative.com/animals/whale-watching, https://www.sealuxe.ca/blog/narwhal
 </p>
+
 
