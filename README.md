@@ -50,4 +50,10 @@ optimize the fitness function to get the optimal position of whale.
     <strong> Fig. 1 </strong> Behaviors of beluga whales, (a) swim, corresponding to exploration phase; (b) foraging, corresponding to exploitation phase, (c) whale fall, for whale fall phase. Source: https://constative.com/animals/whale-watching, https://www.sealuxe.ca/blog/narwhal
 </p>
 
+<p align="center">
+  <img src="https://github.com/Eng-ZeyadTarek/Nature-Inspired-Optimization-Algorithms/blob/main/Beluga%202.JPG" alt='Flowchart of the proposed BWO'>
+</p>
 
+<p align="center">
+    <strong> Fig. 2 </strong> Flowchart of the proposed BWO. Source:https://www.researchgate.net/publication/361204761_Beluga_whale_optimization_A_novel_nature-inspired_metaheuristic_algorithm
+</p>
