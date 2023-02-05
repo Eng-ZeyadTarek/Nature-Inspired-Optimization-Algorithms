@@ -42,3 +42,4 @@ optimize the fitness function to get the optimal position of whale.
 12. Find the current best solution **P\***
 13. Update the iteration by *1*
 
+![Fig. 1 Behaviors of beluga whales, (a) swim, corresponding to exploration phase; (b) foraging, corresponding to exploitation phase, (c) whale fall, for whale fall phase. Source: https://constative.com/animals/whale-watching, https://www.sealuxe.ca/blog/narwhal](Beluga 1.JPG)
