@@ -57,3 +57,23 @@ optimize the fitness function to get the optimal position of whale.
 <p align="center">
     <strong> Fig. 2 </strong> Flowchart of the proposed BWO. Source: https://www.researchgate.net/publication/361204761_Beluga_whale_optimization_A_novel_nature-inspired_metaheuristic_algorithm
 </p>
+
+## 8 fitness functions used in this optimization code.
+
+1. Sphere function **F1**
+2. Powell Sum function **F3**
+3. schwefel 1.2 function **F4**
+4. Rosenbrock function **F6**
+5. Step function **F7**
+6. Quartic funtion **F8**
+7. Zakharov function **F9**
+8. Rastrigin function **F13**
+
+## How to try this code.
+
+using command propmt in your machine type this command.
+<code>python BWO.py fitness_function_arg max_iterations_arg number_of_whales_arg</code>
+
+1. fitness_function_arg:- any value in **'F1', 'F3', 'F4', 'F6, 'F7', 'F8', 'F9', 'F13'**
+2. max_iterations_arg:- **INTEGER** value
+3. number_of_whales_args:- **INTEGER** value
