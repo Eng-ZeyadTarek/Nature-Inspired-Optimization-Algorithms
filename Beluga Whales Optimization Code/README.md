@@ -78,7 +78,7 @@ using command propmt in your machine type this command.
 3. number_of_whales_args:- **INTEGER** value
 
 ## Ref:-
-<a href="https://www.researchgate.net/publication/361204761_Beluga_whale_optimization_A_novel_nature-inspired_metaheuristic_algorithm"><strong>Paper</strong></a>
+<a target="_blank" href="https://www.researchgate.net/publication/361204761_Beluga_whale_optimization_A_novel_nature-inspired_metaheuristic_algorithm"><strong>Paper</strong></a>
 
 
 
