@@ -76,3 +76,9 @@ using command propmt in your machine type this command.
 1. fitness_function_arg:- any value in **'F1', 'F3', 'F4', 'F6, 'F7', 'F8', 'F9', 'F13'** without **''**.
 2. max_iterations_arg:- **INTEGER** value
 3. number_of_whales_args:- **INTEGER** value
+
+## Ref:-
+<a href="https://www.researchgate.net/publication/361204761_Beluga_whale_optimization_A_novel_nature-inspired_metaheuristic_algorithm"><strong>Paper</strong></a>
+
+
+
