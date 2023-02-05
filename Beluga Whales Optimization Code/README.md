@@ -42,7 +42,7 @@ optimize the fitness function to get the optimal position of whale.
 13. Update the iteration by *1*
 
 <p align="center">
-  <img src="https://github.com/Eng-ZeyadTarek/Nature-Inspired-Optimization-Algorithms/blob/main/Beluga%201.JPG" alt='Behaviors of beluga whales'>
+  <img src="[https://github.com/Eng-ZeyadTarek/Nature-Inspired-Optimization-Algorithms/blob/main/Beluga%201.JPG](https://github.com/Eng-ZeyadTarek/Nature-Inspired-Optimization-Algorithms/blob/main/Beluga%20Whales%20Optimization%20Code/Beluga%201.JPG)" alt='Behaviors of beluga whales'>
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ optimize the fitness function to get the optimal position of whale.
 </p>
 
 <p align="center">
-  <img src="https://github.com/Eng-ZeyadTarek/Nature-Inspired-Optimization-Algorithms/blob/main/Beluga%202.JPG" alt='Flowchart of the proposed BWO'>
+  <img src="[https://github.com/Eng-ZeyadTarek/Nature-Inspired-Optimization-Algorithms/blob/main/Beluga%202.JPG](https://github.com/Eng-ZeyadTarek/Nature-Inspired-Optimization-Algorithms/blob/main/Beluga%20Whales%20Optimization%20Code/Beluga%202.JPG)" alt='Flowchart of the proposed BWO'>
 </p>
 
 <p align="center">
