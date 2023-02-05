@@ -74,6 +74,6 @@ optimize the fitness function to get the optimal position of whale.
 using command propmt in your machine type this command.
 <code>python BWO.py fitness_function_arg max_iterations_arg number_of_whales_arg</code>
 
-1. fitness_function_arg:- any value in **'F1', 'F3', 'F4', 'F6, 'F7', 'F8', 'F9', 'F13'**
+1. fitness_function_arg:- any value in **'F1', 'F3', 'F4', 'F6, 'F7', 'F8', 'F9', 'F13'** without **''**.
 2. max_iterations_arg:- **INTEGER** value
 3. number_of_whales_args:- **INTEGER** value
